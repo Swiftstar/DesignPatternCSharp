@@ -6,6 +6,7 @@ namespace DesignPatternCSharp
     {
         static void Main(string[] args)
         {
+            MiniDuckSimulator.Test();
         }
     }
 }
