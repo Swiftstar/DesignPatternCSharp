@@ -1,0 +1,4 @@
+class PepperoniPizza : Pizza
+{
+
+}

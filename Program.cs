@@ -10,7 +10,9 @@ namespace DesignPatternCSharp
 
             // WeatherStation.Test();
 
-            StarbuzzCoffee.Test();
+            // StarbuzzCoffee.Test();
+
+            PizzaTestDrive.Test();
         }
     }
 }
