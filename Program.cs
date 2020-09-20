@@ -8,7 +8,9 @@ namespace DesignPatternCSharp
         {
             // MiniDuckSimulator.Test();
 
-            WeatherStation.Test();
+            // WeatherStation.Test();
+
+            StarbuzzCoffee.Test();
         }
     }
 }
